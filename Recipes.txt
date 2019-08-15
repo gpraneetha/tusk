@@ -6,4 +6,6 @@ Pizza
 Pasta
 Chicken Fry
 
+Beans
+Peas
 Thankyou!!
